@@ -10,6 +10,5 @@ has increased compared to the previous value by more than 20%,
 display a message on the screen "Warning, temperature exceeded".
 
 **Advanced task:**
-
 3.1) Also, calculate the average temperature for the last 10 measurements and
 the average temperature of every 100th measurement.
